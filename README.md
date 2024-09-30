@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 
   <h1>Privacy Policy</h1>
 
-  <p>Effective Date: [Insert Date]</p>
+  <p>Effective Date: 9/29/2024</p>
 
   <p>Your privacy is important to us. This privacy policy outlines how we collect, use, and protect your personal information when you visit our website and make purchases from our photography e-commerce store.</p>
 
